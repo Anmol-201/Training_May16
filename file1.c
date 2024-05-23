@@ -8,6 +8,6 @@ DOC : 23rd May 2024
 
 int main()
 {
-	printf("Hello World!!!");
+	printf("Hello World!!");
 	return 0;
 }
