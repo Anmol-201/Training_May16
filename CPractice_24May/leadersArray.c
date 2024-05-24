@@ -18,16 +18,23 @@ int main()
 	  scanf("%d",&arr[i]);
 
   int leader=-1;
-  for(int i=n-2;i>-1;i--)
+  int k=0;
+  int ans[MAXSIZE];
+
+  for(int i=n-1;i>-1;i--)
   {
-    if(arr[i]<arr[i+1])
+    if(arr[i]>leader)
     {
-      leader=arr[i+1];
-      break;
+      ans[k]=arr[i];
+      k++;
+      leader=arr[i];
     }
   }
 
-  printf("Leader in array is: %d",leader);
+  printf("Leaders are:\n");
+  for(int i=k-1;i>-1;i--)
+    printf("%d\t",ans[i]);
+  
 
   return 0;
 }
