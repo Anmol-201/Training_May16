@@ -54,7 +54,9 @@ int main()
   {
    
    temp = fgets(output, MAX, infile);
-   
+    //temp[len-1] = '\0';
+  if(temp[len-1]=='\n')
+     temp[len-1]='\0';
 //   if(*temp=='\n')
 //      *temp='\0';
      
