@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define PORT 2001
+#define PORT 6000
 #define MAXLINE 1024
 
 int main() {
@@ -51,4 +51,3 @@ int main() {
     close(sockfd);
     return 0;
 }
-
