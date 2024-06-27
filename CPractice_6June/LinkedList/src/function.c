@@ -246,6 +246,7 @@ void display_list(Node *head)
 
 
 
+/*
 void free_list(Node **head)
 {
     Node *tmp = *head;
@@ -257,5 +258,15 @@ void free_list(Node **head)
        free(free_node);
     }
     *head = NULL;
+}*/
+
+void free_list(Node **head) {
+    while (*head != NULL) {
+        Node *free_node = *head;
+        *head = (*head)->next;
+        free(free_node->str);
+        free(free_node);
+    }
 }
+
 

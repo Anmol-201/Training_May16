@@ -1,5 +1,13 @@
-hello Hi there! How can I assist you with college hiring?
-application_process The application process involves submitting your resume and completing an interview.
-eligibility_criteria Freshers with a minimum of 70% aggregate are eligible to apply.
-contact_information You can reach us at hr@collegehire.com.
-bye Goodbye! Have a great day!
+hello Hi there! How can I assist you with college hiring? 
+onboarding_process Capgemini’s onboarding includes orientation sessions, company policies and training and banking sessions and general doubt helping sessions. Further details will be shared through email. 
+upskilling Capgemini provides different resources. Further details will be shared through email. 
+performance_evaluation Capgemini conducts performance evaluations where managers provide feedback. Further details will be shared through email. 
+work_environment Capgemini values diversity, innovation. Supportive work culture, teamwork, work-life balance. Further details will be shared through email.  
+application_process The application process involves submitting your resume and completing an interview. Further details will be shared through email. 
+eligibility_criteria Freshers with a minimum of 70% aggregate are eligible to apply. Further details will be shared through email. 
+contact_information You can reach us at hr@collegehire.com. 
+dress Any formal and semi formal clothing is allowed. Further details will be shared through email. 
+working_mode Capgemini accepts hybrid mode of working, but not in training. Further details will be shared through email. 
+timing Nine hours of works is required for 5 days a week generally (8-5 or 9-6). Further details will be shared through email. 
+office_location Office location will be communicated you through the email. Further details will be shared through email. 
+bye Goodbye! Have a great day! 

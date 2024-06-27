@@ -99,6 +99,10 @@ int main(int argc, char *argv[])
         printf("\n\tpress enter to continue...");
         myfflush();
     }
+
+//	free(head);
+
+
     return SUCCESS;
 }
 
